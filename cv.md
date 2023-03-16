@@ -4,26 +4,26 @@
 ### Contact information:
 - **E-mail**: kolya010521@gmail.com
 - **Telegram**: https://t.me/nikolayDyachuk 
-- **Discord**: Nikolay.D#6906 
+- **Discord**: Nikolay.D#6906  <br>
 
----
+  ---
 
-### About myself
+ ### About myself
 - I'm 24 years old
 - I have analytical mind, the ability to quickly find information and draw conclusions
-- I'm self-motivated, responsible and hard working person.
+- I'm self-motivated, responsible and hard working person. <br> 
+ 
+  ---
 
----
-
-### Skills and Proficiency:
+  ### Skills and Proficiency:
 - HTML5, CSS3, SCSS
 - JavaScript, Pyton Basics
 - Git, GitHub
-- Figma
+- Figma  <br>
 
----
+    ---
 
-### Code example:
+  ### Code example:
 *Create a function which answers the question "Are you playing banjo?".*
 If your name starts with the letter "R" or lower case "r", you are playing banjo!
 The function takes a name as its only argument, and returns one of the following strings:\
@@ -44,6 +44,7 @@ function areYouPlayingBanjo(name) {
 National University of Bioresources and Nature Management. Faculty: Information Technology. Specialization: Computer Engineering.
 
 ---
+
 ### Languages:
 - English - Pre-intermediate/Intermediate
 - Ukrainian - Native
