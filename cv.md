@@ -8,14 +8,14 @@
 
   ---
 
- ### About myself
+### About myself
 - I'm 24 years old
 - I have analytical mind, the ability to quickly find information and draw conclusions
 - I'm self-motivated, responsible and hard working person. <br> 
  
   ---
 
-  ### Skills and Proficiency:
+### Skills and Proficiency:
 - HTML5, CSS3, SCSS
 - JavaScript, Pyton Basics
 - Git, GitHub
@@ -23,7 +23,7 @@
 
     ---
 
-  ### Code example:
+### Code example:
 *Create a function which answers the question "Are you playing banjo?".*
 If your name starts with the letter "R" or lower case "r", you are playing banjo!
 The function takes a name as its only argument, and returns one of the following strings:\
