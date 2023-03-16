@@ -36,7 +36,7 @@ function areYouPlayingBanjo(name) {
 ```
 ---
 ### Projects
-[CSS Acordeon](https://doka.guide](https://nikoladyachik.github.io/cssBayan/cssBayan/index.html)!
+Проект, [CSS Acordeon](https://doka.guide](https://nikoladyachik.github.io/cssBayan/cssBayan/index.html "Проект без JS!").
 
 ---
 
