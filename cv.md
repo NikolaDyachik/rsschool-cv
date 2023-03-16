@@ -28,3 +28,17 @@ function areYouPlayingBanjo(name) {
   return name.substring(0,1).toLowerCase() === "r" ? `${name} plays banjo` : `${name} does not play banjo`;
 }
 ```
+---
+### Projects
+[CSS Acordeon](https://doka.guide](https://nikoladyachik.github.io/cssBayan/cssBayan/index.html)!
+
+---
+
+### Education
+National University of Bioresources and Nature Management. Faculty: Information Technology. Specialization: Computer Engineering.
+
+---
+### Languages:
+- English - Pre-intermediate/Intermediate
+- Ukrainian - Native
+- Russian - Intermediate
