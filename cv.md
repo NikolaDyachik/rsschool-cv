@@ -5,18 +5,24 @@
 - **E-mail**: kolya010521@gmail.com
 - **Telegram**: https://t.me/nikolayDyachuk 
 - **Discord**: Nikolay.D#6906 
+
 ---
+
 ### About myself
 - I'm 24 years old
 - I have analytical mind, the ability to quickly find information and draw conclusions
 - I'm self-motivated, responsible and hard working person.
+
 ---
+
 ### Skills and Proficiency:
 - HTML5, CSS3, SCSS
 - JavaScript, Pyton Basics
 - Git, GitHub
 - Figma
+
 ---
+
 ### Code example:
 *Create a function which answers the question "Are you playing banjo?".*
 If your name starts with the letter "R" or lower case "r", you are playing banjo!
